@@ -17,10 +17,12 @@ public class ResultadoIMC extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_resultado_imc);
 
+        TextView nom = (TextView) findViewById(R.id.txtNombre4);
         tvDatos = (TextView) findViewById(R.id.txtDato);
         Button btnINICIO = (Button) findViewById(R.id.btnInicio);
         String Nombre = getIntent().getStringExtra("Usuario");
         String dato = getIntent().getStringExtra("imcR");
+        nom.setText(""+Nombre);
         float Ri = Float.valueOf(dato);
         if((Ri>=18.5) && (Ri<=24.9)){
         tvDatos.setText(Nombre+"\n"+"Normal:  "+Ri+"\n"+

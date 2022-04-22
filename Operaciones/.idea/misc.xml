@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Operaciones/app/src/main/res/layout/activity_calculadora.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Operaciones/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1285" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Operaciones/app/src/main/res/drawable/bordes_redondos.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Operaciones/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1285" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Operaciones/app/src/main/res/layout/activity_calculadora.xml" value="0.18" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Operaciones/app/src/main/res/layout/activity_imc.xml" value="0.2" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Operaciones/app/src/main/res/layout/activity_inicio.xml" value="0.18" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Operaciones/app/src/main/res/layout/activity_inicio.xml" value="0.25" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Operaciones/app/src/main/res/layout/activity_resultado_imc.xml" value="0.2" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Operaciones/app/src/main/res/layout/activity_temperatura.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Operaciones/app/src/main/res/layout/activity_temperatura.xml" value="0.19662921348314608" />
       </map>
     </option>
   </component>

@@ -22,10 +22,11 @@ public class IMC extends AppCompatActivity {
         n1 = (EditText) findViewById(R.id.txtAltura);
         n2 = (EditText) findViewById(R.id.txtPeso);
         Button imc = (Button) findViewById(R.id.btnCalcular);
+        TextView nom = (TextView) findViewById(R.id.txtNombre3);
         final TextView res = (TextView) findViewById(R.id.txtRes);
-
         String Nombre = getIntent().getStringExtra("Usu");
 
+        nom.setText(""+Nombre);
         imc.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
